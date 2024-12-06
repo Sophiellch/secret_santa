@@ -1,10 +1,6 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
 from PIL import Image
-from geopy.geocoders import Nominatim
-import folium
-from folium import plugins
 from itertools import chain
 import random
 from email.message import EmailMessage
